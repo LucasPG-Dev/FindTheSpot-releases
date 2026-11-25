@@ -15,6 +15,7 @@
 - Full boost when you load into a map mid game.
 
 ### Comp mode (Subject to change/under construction)
+- When someone finds all spots, the timer is cut to 60s left for everyone else.
 - Comp games now end when:
   - Everyone has found all spots
   - Timer runs out
