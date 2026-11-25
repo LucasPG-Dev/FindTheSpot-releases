@@ -14,7 +14,7 @@
 - Start countdown. Now only plays before the first round(every round in warp mode).
 - Full boost when you load into a map mid game.
 
-### Comp mode
+### Comp mode (Subject to change/under construction)
 - Comp games now end when:
   - Everyone has found all spots
   - Timer runs out
